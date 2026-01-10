@@ -517,7 +517,7 @@ body:not(.user-is-tabbing) a:focus {
 .client__logo {
     height: 13rem;
     max-width: 38rem;
-    filter: invert(100%) grayscale(100%) opacity(.8);
+    filter: invert(100%) grayscale(190%) opacity(.8);
 }
 
 @media(max-width: 1240px) {
